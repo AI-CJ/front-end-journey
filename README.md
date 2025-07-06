@@ -1,1 +1,1 @@
-# front-end-journey
+# Front-End Journey
